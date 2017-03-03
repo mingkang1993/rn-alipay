@@ -1,0 +1,34 @@
+{
+  "name": "reactrn-alipay",
+  "version": "1.0.0",
+  "description": "react-native 支付宝手机支付模块",
+  "main": "rn-alipay.js",
+  "contributors": [
+    {
+      "name": "chenmingkang",
+      "email": "a623109618@163.com"
+    }
+  ],
+  "keywords": [
+    "alipay",
+    "rn-walipay",
+    "rn-alipay",
+    "react-native-alipay",
+    "pay",
+    "支付宝",
+    "支付"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingkang1993/react-native-alipay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mingkang1993/react-native-alipay/issues"
+  },
+  "homepage": "https://github.com/mingkang1993/react-native-alipay#readme"
+}
