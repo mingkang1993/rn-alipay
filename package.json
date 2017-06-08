@@ -1,5 +1,5 @@
 {
-  "name": "reactrn-alipay",
+  "name": "rn-alipay",
   "version": "1.0.0",
   "description": "react-native 支付宝手机支付模块",
   "main": "rn-alipay.js",
